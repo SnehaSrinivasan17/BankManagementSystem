@@ -1,5 +1,6 @@
 # Bank Management System
-Team Memebers:
+Team Members:
+
 Sneha Srinivasan-PES2UG20CS342
 
 Tejal Meda-PES2UG20CS369
